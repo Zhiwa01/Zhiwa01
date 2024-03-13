@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Zhiwa** 
-### Web Development Learner
+> ### Programming Learner
 
 - 👀 I’m interested in Web Development, Software Engineering
 - 🌱 I’m currently learning Laravel and Tailwind
