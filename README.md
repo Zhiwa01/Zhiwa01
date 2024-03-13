@@ -6,7 +6,8 @@
 `Tailwind`
 - 💞️ I’m looking to collaborate on `Laravel` Projects
 - 📫 Reach me On **zhiwa.rafaat@gmail.com**
-- 📲 find me on Facebook [Zhiwa01](https://www.instagram.com/zhiwa01?igsh=bDV4NjNiZzg3M2Zo)
+- 📲 find me on Facebook [Zhiwa Rafaat](https://www.facebook.com/zhiwa.rafaat?mibextid=ZbWKwL)
+- 📲 find me on Instagram [Zhiwa01](https://www.instagram.com/zhiwa01?igsh=bDV4NjNiZzg3M2Zo)
 - ⚡ Fun fact: *Worst Designer Ever!*
 
 <!---
