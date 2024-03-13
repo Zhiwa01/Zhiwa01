@@ -1,4 +1,4 @@
-<span align="center"> # 👋 Hi, I’m **Zhiwa** </span>
+# 👋 Hi, I’m **Zhiwa** 
 ### Web Development Learner
 
 - 👀 I’m interested in Web Development, Software Engineering
