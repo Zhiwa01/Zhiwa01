@@ -2,12 +2,11 @@
 > ### Programming Learner
 
 - 👀 I’m interested in `Web Development` and `Software Engineering`
-- 🌱 I’m currently learning `Laravel` and
-`Tailwind`
-- 💞️ I’m looking to collaborate on `Laravel` Projects
+- 🌱 I’m currently learning `Basics` and
+`Fundamentals` of Web Development 
+- 💞️ I’m looking to collaborate on `Web Development` Projects
 - 📫 Reach me On **zhiwa.rafaat@gmail.com**
 - 📲 find me on Facebook [Zhiwa Rafaat](https://www.facebook.com/zhiwa.rafaat?mibextid=ZbWKwL)
-- 📲 find me on Instagram [Zhiwa01](https://www.instagram.com/zhiwa01?igsh=bDV4NjNiZzg3M2Zo)
 - ⚡ Fun fact: *Worst Designer Ever!*
 
 <!---
